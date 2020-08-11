@@ -34,7 +34,13 @@ menu_icons:
 sidebar:
   position: left
 
-highlight_theme: night eighties
+highlight_theme: night
+
+reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+wechatpay: /path/to/wechat-reward-image
+alipay: /path/to/alipay-reward-image
+since: 2014
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
